@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "repository": "hxfxjun/qstart_strategies",
+  "branch": "main",
+  "strategy_path": "strategies/latest.enc.json",
+  "format": "qstart-strategy-cloud",
+  "version": 1,
+  "cipher": "AES-256-GCM",
+  "kdf": "PBKDF2-HMAC-SHA256",
+  "rounds": 600000
+}
